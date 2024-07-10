@@ -7,3 +7,4 @@ pytest-cov>=4.0.0
 freezegun>=1.2.2
 requests==2.32.0
 responses>=0.22.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
